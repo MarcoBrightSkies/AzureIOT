@@ -1,0 +1,41 @@
+Created partition receiver: 0
+Created partition receiver: 1
+Message received: 
+{"deviceId":"myFirstNodeDevice","temperature":21.287528679806368,"humidity":71.62412111638083}
+
+Message received: 
+{"deviceId":"myFirstNodeDevice","temperature":22.75668174155939,"humidity":77.571990680048}
+
+Message received: 
+{"deviceId":"myFirstNodeDevice","temperature":23.699156972117205,"humidity":65.94233529789899}
+
+Message received: 
+{"deviceId":"myFirstNodeDevice","temperature":26.569764386698445,"humidity":77.99896060609936}
+
+Message received: 
+{"deviceId":"myFirstNodeDevice","temperature":25.645047099427792,"humidity":78.0563081588436}
+
+Message received: 
+{"deviceId":"myFirstNodeDevice","temperature":21.931069973169993,"humidity":75.72023259303214}
+
+Message received: 
+{"deviceId":"myFirstNodeDevice","temperature":31.102113414574585,"humidity":62.67277674728923}
+
+Message received: 
+{"deviceId":"myFirstNodeDevice","temperature":29.391904632215663,"humidity":73.27070436888803}
+
+Message received: 
+{"deviceId":"myFirstNodeDevice","temperature":29.3146995871476,"humidity":66.20404807095284}
+
+Message received: 
+{"deviceId":"myFirstNodeDevice","temperature":22.44440165566653,"humidity":79.05157568863385}
+
+Message received: 
+{"deviceId":"myFirstNodeDevice","temperature":29.097864897443714,"humidity":62.65973687379778}
+
+Message received: 
+{"deviceId":"myFirstNodeDevice","temperature":25.740420186123472,"humidity":72.35605158215313}
+
+Message received: 
+{"deviceId":"myFirstNodeDevice","temperature":33.850693473661664,"humidity":63.47618757022981}
+

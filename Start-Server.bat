@@ -1,0 +1,1 @@
+node .\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages.js
